@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aadiya
-Skills: HTML, CSS, JS, ReactJS, Redux, Bootstrap, TailwindCSS
-Email: aadityasandil5@gmail.com
-{{/user}}
